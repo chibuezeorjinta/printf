@@ -22,5 +22,6 @@ int _print_char(va_list ls);
 int _print_mod(va_list ls);
 int _print_string(va_list ls);
 int _print_int(va_list ls);
-
+int _putchar(char c);
+int _print_binary(va_list binary_list);
 #endif
