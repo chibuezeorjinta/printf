@@ -14,3 +14,5 @@ Collects a constant string ***format*** and listens for '%' flag followed by a f
 1. **%**: print '%'.  
 ### RETURN:  
 Returns the number of characters printed to stdout.
+A manual is created as "man_3_printf"
+The format funtions are stored in the functions.c file
